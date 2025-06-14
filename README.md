@@ -14,6 +14,8 @@ Tovább tudsz menni a következő kiszállításra
 
 
 Használat:
-/startpizza — elindítja a melót, spawnol egy motort és kirak egy kiszállítási pontot
+/selectvehicle — jármű választó menü megnyitása
 
-/stoppizza — leállítja a melót és eltünteti a motort + blipet
+/startpizza — meló indítása (animáció, jármű spawn, első kiszállítás)
+
+/stoppizza — meló befejezése, jármű törlése
